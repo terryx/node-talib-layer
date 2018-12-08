@@ -1,0 +1,13 @@
+{
+  "name": "node-talib-layer",
+  "version": "1.0.0",
+  "description": "Node talib layer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Terry Yuen",
+  "license": "MIT",
+  "dependencies": {
+    "talib": "^1.0.5"
+  }
+}
