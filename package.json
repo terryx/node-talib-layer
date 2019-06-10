@@ -1,5 +1,4 @@
 {
-  "name": "node-talib-layer",
   "version": "1.0.0",
   "description": "Node talib layer",
   "scripts": {
@@ -8,6 +7,8 @@
   "author": "Terry Yuen",
   "license": "MIT",
   "dependencies": {
-    "talib": "^1.0.5"
+    "got": "^9.6.0",
+    "rxjs": "^6.5.2",
+    "talib": "^1.1.2"
   }
 }
