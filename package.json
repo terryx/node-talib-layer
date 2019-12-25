@@ -7,8 +7,8 @@
   "author": "Terry Yuen",
   "license": "MIT",
   "dependencies": {
-    "got": "^9.6.0",
-    "rxjs": "^6.5.2",
-    "talib": "^1.1.2"
+    "got": "^10.2.0",
+    "rxjs": "^6.5.3",
+    "talib": "^1.1.3"
   }
 }
